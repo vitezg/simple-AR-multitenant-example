@@ -1,0 +1,5 @@
+This is a simple example for using ActiveRecord's features for
+multi-tenancy.
+
+For more information, please check this blog post:
+http://elevat.eu/blog/understanding-activerecord-multi-tenancy
